@@ -1,0 +1,17 @@
+C:\Users\SolmanTanuku\Downloads\DotNetCore-master\DotNetCore-master\bin\Debug\netcoreapp2.0\appsettings.Development.json
+C:\Users\SolmanTanuku\Downloads\DotNetCore-master\DotNetCore-master\bin\Debug\netcoreapp2.0\appsettings.json
+C:\Users\SolmanTanuku\Downloads\DotNetCore-master\DotNetCore-master\bin\Debug\netcoreapp2.0\bower.json
+C:\Users\SolmanTanuku\Downloads\DotNetCore-master\DotNetCore-master\bin\Debug\netcoreapp2.0\bundleconfig.json
+C:\Users\SolmanTanuku\Downloads\DotNetCore-master\DotNetCore-master\bin\Debug\netcoreapp2.0\dotnetcore-sample.deps.json
+C:\Users\SolmanTanuku\Downloads\DotNetCore-master\DotNetCore-master\bin\Debug\netcoreapp2.0\dotnetcore-sample.runtimeconfig.json
+C:\Users\SolmanTanuku\Downloads\DotNetCore-master\DotNetCore-master\bin\Debug\netcoreapp2.0\dotnetcore-sample.runtimeconfig.dev.json
+C:\Users\SolmanTanuku\Downloads\DotNetCore-master\DotNetCore-master\bin\Debug\netcoreapp2.0\dotnetcore-sample.dll
+C:\Users\SolmanTanuku\Downloads\DotNetCore-master\DotNetCore-master\bin\Debug\netcoreapp2.0\dotnetcore-sample.pdb
+C:\Users\SolmanTanuku\Downloads\DotNetCore-master\DotNetCore-master\obj\Debug\netcoreapp2.0\dotnetcore-sample.csproj.AssemblyReference.cache
+C:\Users\SolmanTanuku\Downloads\DotNetCore-master\DotNetCore-master\obj\Debug\netcoreapp2.0\dotnetcore-sample.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SolmanTanuku\Downloads\DotNetCore-master\DotNetCore-master\obj\Debug\netcoreapp2.0\dotnetcore-sample.AssemblyInfoInputs.cache
+C:\Users\SolmanTanuku\Downloads\DotNetCore-master\DotNetCore-master\obj\Debug\netcoreapp2.0\dotnetcore-sample.AssemblyInfo.cs
+C:\Users\SolmanTanuku\Downloads\DotNetCore-master\DotNetCore-master\obj\Debug\netcoreapp2.0\dotnetcore-sample.csproj.CoreCompileInputs.cache
+C:\Users\SolmanTanuku\Downloads\DotNetCore-master\DotNetCore-master\obj\Debug\netcoreapp2.0\dotnetcore-sample.dll
+C:\Users\SolmanTanuku\Downloads\DotNetCore-master\DotNetCore-master\obj\Debug\netcoreapp2.0\dotnetcore-sample.pdb
+C:\Users\SolmanTanuku\Downloads\DotNetCore-master\DotNetCore-master\obj\Debug\netcoreapp2.0\dotnetcore-sample.genruntimeconfig.cache
